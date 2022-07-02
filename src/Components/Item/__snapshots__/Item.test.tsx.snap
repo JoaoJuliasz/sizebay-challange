@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item Should render Item component 1`] = `ShallowWrapper {}`;
+
+exports[`Item expect to render Item component 1`] = `ShallowWrapper {}`;

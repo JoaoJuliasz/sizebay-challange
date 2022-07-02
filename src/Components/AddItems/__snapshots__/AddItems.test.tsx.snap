@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddItems Should render AddItems component 1`] = `ShallowWrapper {}`;

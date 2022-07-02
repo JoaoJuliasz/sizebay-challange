@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Progress expect to render Progress component 1`] = `ShallowWrapper {}`;
